@@ -1,0 +1,14 @@
+C:\Users\Daniel Fromer\source\repos\ConsoleApp3 11_05\ConsoleApp3 11_05\bin\Debug\net9.0\ConsoleApp3 11_05.exe
+C:\Users\Daniel Fromer\source\repos\ConsoleApp3 11_05\ConsoleApp3 11_05\bin\Debug\net9.0\ConsoleApp3 11_05.deps.json
+C:\Users\Daniel Fromer\source\repos\ConsoleApp3 11_05\ConsoleApp3 11_05\bin\Debug\net9.0\ConsoleApp3 11_05.runtimeconfig.json
+C:\Users\Daniel Fromer\source\repos\ConsoleApp3 11_05\ConsoleApp3 11_05\bin\Debug\net9.0\ConsoleApp3 11_05.dll
+C:\Users\Daniel Fromer\source\repos\ConsoleApp3 11_05\ConsoleApp3 11_05\bin\Debug\net9.0\ConsoleApp3 11_05.pdb
+C:\Users\Daniel Fromer\source\repos\ConsoleApp3 11_05\ConsoleApp3 11_05\obj\Debug\net9.0\ConsoleApp3 11_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Fromer\source\repos\ConsoleApp3 11_05\ConsoleApp3 11_05\obj\Debug\net9.0\ConsoleApp3 11_05.AssemblyInfoInputs.cache
+C:\Users\Daniel Fromer\source\repos\ConsoleApp3 11_05\ConsoleApp3 11_05\obj\Debug\net9.0\ConsoleApp3 11_05.AssemblyInfo.cs
+C:\Users\Daniel Fromer\source\repos\ConsoleApp3 11_05\ConsoleApp3 11_05\obj\Debug\net9.0\ConsoleApp3 11_05.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Fromer\source\repos\ConsoleApp3 11_05\ConsoleApp3 11_05\obj\Debug\net9.0\ConsoleApp3 11_05.dll
+C:\Users\Daniel Fromer\source\repos\ConsoleApp3 11_05\ConsoleApp3 11_05\obj\Debug\net9.0\refint\ConsoleApp3 11_05.dll
+C:\Users\Daniel Fromer\source\repos\ConsoleApp3 11_05\ConsoleApp3 11_05\obj\Debug\net9.0\ConsoleApp3 11_05.pdb
+C:\Users\Daniel Fromer\source\repos\ConsoleApp3 11_05\ConsoleApp3 11_05\obj\Debug\net9.0\ConsoleApp3 11_05.genruntimeconfig.cache
+C:\Users\Daniel Fromer\source\repos\ConsoleApp3 11_05\ConsoleApp3 11_05\obj\Debug\net9.0\ref\ConsoleApp3 11_05.dll

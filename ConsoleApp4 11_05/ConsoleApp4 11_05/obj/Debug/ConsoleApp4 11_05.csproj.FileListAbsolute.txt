@@ -1,0 +1,2 @@
+C:\Users\Daniel Fromer\source\repos\ConsoleApp4 11_05\ConsoleApp4 11_05\obj\Debug\ConsoleApp4 11_05.csproj.AssemblyReference.cache
+C:\Users\Daniel Fromer\source\repos\ConsoleApp4 11_05\ConsoleApp4 11_05\obj\Debug\ConsoleApp4 11_05.csproj.CoreCompileInputs.cache
