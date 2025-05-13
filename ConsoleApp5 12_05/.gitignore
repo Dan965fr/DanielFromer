@@ -1,0 +1,13 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.log
+*.tmp
+*.db
+*.cache
+*.pdb
+*.pidb
+*.bak
+
