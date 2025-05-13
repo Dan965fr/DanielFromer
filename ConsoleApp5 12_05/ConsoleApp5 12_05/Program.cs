@@ -7,7 +7,7 @@ namespace ConsoleApp5_12_05
 {
     internal class Program
     {
-
+        //Input Validity Check
         static List<int> GetInitialSeries(string[] args)
         {
             List<int> series = new List<int>();
@@ -67,6 +67,7 @@ namespace ConsoleApp5_12_05
 
             return series;
         }
+        //Menu
         static void showMenu(List<int> series)
         {
             bool exit = false;
@@ -127,6 +128,7 @@ namespace ConsoleApp5_12_05
                 }
             }
         }
+        //Display series in order 
         static void Displayseries(List<int> series)
         {
             Console.WriteLine("Series in order:");
@@ -136,6 +138,7 @@ namespace ConsoleApp5_12_05
             }
             Console.WriteLine();
         }
+        //Display series in reverse order
         static void DisplayseriesReverse(List<int> series)
         {
             Console.WriteLine("Series in reverse order:");
@@ -145,6 +148,7 @@ namespace ConsoleApp5_12_05
             }
             Console.WriteLine();
         }
+        //Display series sorted
         static List<int> SortedSeries(List<int> series)
         {
             List<int> sorted = new List<int>(series);
@@ -163,6 +167,7 @@ namespace ConsoleApp5_12_05
             }
             return sorted;
         }
+        //Display series max
         static int GetMax(List<int> series)
         {
             int max = series[0];
@@ -175,6 +180,7 @@ namespace ConsoleApp5_12_05
             }
             return max;
         }
+        //Display series min
         static int GetMin(List<int> series)
         {
             int min = series[0];
@@ -187,6 +193,7 @@ namespace ConsoleApp5_12_05
             }
             return min;
         }
+        //Display series average
         static double GetAverage(List<int> series)
         {
             double sum = 0;
@@ -196,6 +203,7 @@ namespace ConsoleApp5_12_05
             }
             return sum / series.Count;
         }
+        //Display series sum
         static int GetSum(List<int> series)
         {
             int sum = 0;
@@ -205,6 +213,7 @@ namespace ConsoleApp5_12_05
             }
             return sum;
         }
+        //Display series count
         static int GetCount(List<int> series)
         {
             int count = 0;
@@ -214,6 +223,7 @@ namespace ConsoleApp5_12_05
             }
             return count;
         }
+        //Main method
         static void Main(string[] args)
         {
 
