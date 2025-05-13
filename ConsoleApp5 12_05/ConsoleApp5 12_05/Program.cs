@@ -150,7 +150,7 @@ namespace ConsoleApp5_12_05
             List<int> sorted = new List<int>(series);
             for (int i = 0; i < sorted.Count - 1; i++)
             {
-                for (int j = 0; j > sorted.Count - i - 1; j++)
+                for (int j = 0; j < sorted.Count - i - 1; j++)
                 {
                     if (sorted[j] > sorted[j + 1])
                     {
